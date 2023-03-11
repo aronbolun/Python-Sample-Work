@@ -1,4 +1,6 @@
 # Python Sample Work
+
+This project is completed using Python. It mainly includes topics such as web scraping, text analysis, topic modeling, etc.
 ## Introduction
 This project is designed for film directors' works analysis. What we want to explore is the relationship between films' performance and film directors' background.
 
